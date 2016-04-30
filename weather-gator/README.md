@@ -1,36 +1,5 @@
-# weather-gator
+## weather-gator
 
-FIXME: description
+An idea to utilize the free API's from different weather sources and aggregate the data into a single source.
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar weather-gator-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Looking to use this data to create a fun project using clojure, cassandra, and possibly some other neat technologies, more to come....
